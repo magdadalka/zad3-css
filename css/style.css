@@ -1,0 +1,15 @@
+body {
+    background-color: #faebd6;
+}
+
+h1 {
+    color: #ff0000;
+}
+
+p#one {
+    color: #a42423;
+    font-size: large;
+}
+p#two {
+    color: #00008f;
+}
